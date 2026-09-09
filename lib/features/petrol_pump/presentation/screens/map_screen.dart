@@ -131,7 +131,7 @@ class _MapScreenState extends State<MapScreen> {
           // Marker rotates naturally.
           flat: true,
 
-          zIndex: 100,
+          zIndexInt: 100,
 
           icon:
               BitmapDescriptor
